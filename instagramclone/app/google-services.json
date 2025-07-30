@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86530384516",
+    "project_id": "instegremclonejava",
+    "storage_bucket": "instegremclonejava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86530384516:android:47e0d6479b677edfe358d1",
+        "android_client_info": {
+          "package_name": "com.zeki.instagramclonejava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86530384516-2fbo92gpkkjjgifmesod9o7sksf48gcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkGkw0TH1k-wRiJQSIQKPHem9zy9rgWi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86530384516-2fbo92gpkkjjgifmesod9o7sksf48gcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
